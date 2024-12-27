@@ -1,4 +1,4 @@
-# 🤖 GenAI_QA_ChatBot
+# 🤖 GenAI Q & A ChatBot
 
 ## Conversational PDF Question and Answer Chatbot
 
